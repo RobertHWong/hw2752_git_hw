@@ -1,3 +1,6 @@
 This is a homework of Tools for Analytics.
 Han Wang
 Nov. 5, 2019
+
+p.s. I make a change in this doc.
+Nov 5 2019
